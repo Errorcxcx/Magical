@@ -37,6 +37,7 @@ public class CategoryController {
             //return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
             return ResponseEntity.notFound().build();
         }
+
         //200: 查询成功
         return ResponseEntity.ok(categories);
 
