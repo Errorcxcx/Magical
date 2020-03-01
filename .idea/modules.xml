@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dadou.iml" filepath="$PROJECT_DIR$/dadou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadou-common/dadou-common.iml" filepath="$PROJECT_DIR$/dadou-common/dadou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadou-gateway/dadou-gateway.iml" filepath="$PROJECT_DIR$/dadou-gateway/dadou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadou-item/dadou-item.iml" filepath="$PROJECT_DIR$/dadou-item/dadou-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadou-item/dadou-item-interface/dadou-item-interface.iml" filepath="$PROJECT_DIR$/dadou-item/dadou-item-interface/dadou-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadou-item/dadou-item-service/dadou-item-service.iml" filepath="$PROJECT_DIR$/dadou-item/dadou-item-service/dadou-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dadou-registry/dadou-registry.iml" filepath="$PROJECT_DIR$/dadou-registry/dadou-registry.iml" />
+    </modules>
+  </component>
+</project>
